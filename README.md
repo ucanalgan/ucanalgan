@@ -49,19 +49,40 @@ Hello! I'm Umutcan Algan, a 21-year-old Information Systems Engineering student 
 ---
 
 ## 📈 My GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ucanalgan&show_icons=true&theme=radical" alt="ucanalgan's GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucanalgan&theme=radical" alt="ucanalgan's GitHub streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucanalgan&layout=compact&theme=radical" alt="ucanalgan's Top Languages"/>
-    </td>
-  </tr>
-</table>
+
+Here is a quick overview of my GitHub activity and stats:
+
+---
+
+**General Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ucanalgan&show_icons=true&theme=radical" alt="ucanalgan's GitHub stats"/>
+</p>
+
+---
+
+**Contribution Streak**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucanalgan&theme=radical" alt="ucanalgan's GitHub streak"/>
+</p>
+
+---
+
+**Top Languages**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucanalgan&layout=compact&theme=radical" alt="ucanalgan's Top Languages"/>
+</p>
+
+---
+
+**Contribution Activity**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucanalgan&theme=radical" alt="ucanalgan's Activity Graph"/>
+</p>
 
 ---
 
