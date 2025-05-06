@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning **JavaScript**, **React Native**, **Java**, and improving my **Python** skills  
 - 💞️ I’m looking to collaborate on open-source security projects or educational platforms  
 - 📫 You can reach me via [umutcanalgan91@gmail.com](mailto:umutcanalgan91@gmail.com)  
-- 🌍 Based in Istanbul, open to remote work and international opportunities  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I used to be a music club secretary and I can fix both your code and your guitar 🎸💻  
+- 🌍 Based in Istanbul, open to remote work and international opportunities   
 
 ## 📌 Featured Projects
 - 🛡️ **Password Strength Analyzer** – Analyze and improve password security with entropy, pattern detection, and breach checks  
