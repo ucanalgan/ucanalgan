@@ -52,7 +52,7 @@ Hello! I'm Umutcan Algan, a 21-year-old Information Systems Engineering student 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ucanalgan&show_icons=true&theme=radical" alt="ucanalgan's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucanalgan&theme=radical" alt="ucanalgan's GitHub streak"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ucanalgan&theme=radical" alt="ucanalgan's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucanalgan&theme=radical" alt="ucanalgan's Activity Graph"/>
 </p>
 
 ---
