@@ -49,40 +49,19 @@ Hello! I'm Umutcan Algan, a 21-year-old Information Systems Engineering student 
 ---
 
 ## 📈 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ucanalgan&show_icons=true&theme=radical" alt="ucanalgan's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucanalgan&theme=radical" alt="ucanalgan's GitHub streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucanalgan&theme=radical" alt="ucanalgan's Activity Graph"/>
-</p>
-
----
-
-## 📌 Pinned & Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucanalgan&repo=PasswordStrengthAnalyzer&theme=radical)](https://github.com/ucanalgan/PasswordStrengthAnalyzer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucanalgan&repo=FitnessSportsApp&theme=radical)](https://github.com/ucanalgan/FitnessSportsApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucanalgan&repo=AIFlashcardWebsite&theme=radical)](https://github.com/ucanalgan/AIFlashcardWebsite)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucanalgan&repo=DebtTrackerWebApp&theme=radical)](https://github.com/ucanalgan/DebtTrackerWebApp)
-
-### Project Snapshots
-
-#### Password Strength Analyzer
-![Password Strength Analyzer Screenshot](https://raw.githubusercontent.com/ucanalgan/PasswordStrengthAnalyzer/main/screenshot.png)
-
-#### Fitness & Sports App
-![Fitness & Sports App Screenshot](https://raw.githubusercontent.com/ucanalgan/FitnessSportsApp/main/screenshot.png)
-
-#### AI-powered Flashcard Website
-![AI Flashcard Website Screenshot](https://raw.githubusercontent.com/ucanalgan/AIFlashcardWebsite/main/screenshot.png)
-
-#### Debt Tracker Web App
-![Debt Tracker Web App Screenshot](https://raw.githubusercontent.com/ucanalgan/DebtTrackerWebApp/main/screenshot.png)
-
----
-
-## 💡 Code & Live Demos
-- [Password Strength Analyzer Demo](https://ucanalgan.github.io/PasswordStrengthAnalyzer/)
-- [AI-powered Flashcard Website Demo](https://ucanalgan.github.io/AIFlashcardWebsite/)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ucanalgan&show_icons=true&theme=radical" alt="ucanalgan's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucanalgan&theme=radical" alt="ucanalgan's GitHub streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucanalgan&layout=compact&theme=radical" alt="ucanalgan's Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
