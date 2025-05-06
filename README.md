@@ -86,13 +86,6 @@ Here is a quick overview of my GitHub activity and stats:
 
 ---
 
-## ☕ Support & Donations
-If you like my work, you can support me:
-- <a href="https://www.buymeacoffee.com/ucanalgan" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-- <a href="https://github.com/sponsors/ucanalgan" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Sponsors-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
-
----
-
 ## 🌐 Social Media & Contact
 <p align="left">
   <a href="mailto:umutcanalgan91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
