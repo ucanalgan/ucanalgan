@@ -16,14 +16,21 @@
 Hello! I'm Umutcan Algan, a 22-year-old Information Systems Engineering student at Piri Reis University (expected graduation: 2027). I love building personal projects, especially in the fields of **cyber security**, **software development**, and **mobile applications**.
 
 - 👀 My interests: **Cyber security**, **Ethical hacking**, **Artificial Intelligence**, **Mobile/Web Development**
-- 🌱 Currently learning: **JavaScript**, **React Native**, **Java**, **Python**
+- 🌱 Currently learning: **Advanced React patterns**, **Mobile app development**, **Cybersecurity tools**
 - 💞️ Open to collaboration on open-source security projects or educational platforms
 - 📫 Contact me: [umutcanalgan91@gmail.com](mailto:umutcanalgan91@gmail.com)
 - 🌍 Based in Istanbul, open to remote and international opportunities
 
 ---
 
+## 🌐 Social Media & Contact
+<p align="center">
+  <a href="mailto:umutcanalgan91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/umutcanalgan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ucanalgan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="ucanalgan's trophies"/>
 </p>
@@ -32,14 +39,12 @@ Hello! I'm Umutcan Algan, a 22-year-old Information Systems Engineering student 
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 ### Frontend Development
@@ -47,6 +52,11 @@ Hello! I'm Umutcan Algan, a 22-year-old Information Systems Engineering student 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### Mobile Development
+<p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
@@ -54,10 +64,12 @@ Hello! I'm Umutcan Algan, a 22-year-old Information Systems Engineering student 
 
 ## 💻 Current Projects
 
-- 🔐 **Advanced Encryption Tool** - A tool for secure communications with end-to-end encryption
-- 🕹️ **Mobile Game Development** - Working on a 2D platformer game with Unity
-- 📊 **Personal Dashboard** - A React-based dashboard for monitoring personal productivity metrics
-- 🛡️ **Web Vulnerability Scanner** - Automated tool to identify common web application security flaws
+- 🔍 **Multi-Language Port Scanner** - Advanced network scanning tool implemented in C++, Python, JavaScript, Rust, and Go with comprehensive port detection capabilities
+- 🌐 **Personal Portfolio Website** - Modern, responsive portfolio built with HTML, CSS, JavaScript, and Tailwind CSS featuring GSAP animations and GitHub API integration
+- 💳 **Credit Card Debt Tracker** - Full-stack TypeScript application using React frontend and Express backend with PostgreSQL for comprehensive debt management
+- 🔑 **Python Keylogger** - Educational cybersecurity tool developed in Python for understanding keystroke monitoring and security research
+- 🔐 **Password Security Checker** - Python-based tool to analyze and validate password strength with comprehensive security checks
+- 📧 **Email Automation System** - Python automation script for streamlined email management and communication workflows
 
 ---
 
@@ -65,10 +77,10 @@ Hello! I'm Umutcan Algan, a 22-year-old Information Systems Engineering student 
 
 Here's what I'm planning to learn in the coming months:
 
-- **Q3 2023:** Advanced React patterns and state management solutions
-- **Q4 2023:** Cloud security fundamentals (AWS/Azure)
-- **Q1 2024:** Advanced Python for cybersecurity and scripting
-- **Q2 2024:** Mobile app penetration testing techniques
+- **Q1 2025:** Advanced React Native development and mobile app optimization
+- **Q2 2025:** Backend development with Node.js and Express
+- **Q3 2025:** Cloud security fundamentals (AWS/Azure)
+- **Q4 2025:** Advanced cybersecurity tools and penetration testing techniques
   
 ---
 
@@ -109,11 +121,5 @@ Here is a quick overview of my GitHub activity and stats:
 </p>
 
 ---
-
-## 🌐 Social Media & Contact
-<p align="left">
-  <a href="mailto:umutcanalgan91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/umutcanalgan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 
