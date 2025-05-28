@@ -9,13 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=ucanalgan&label=Profile%20Views&color=0e75b6&style=flat" alt="ucanalgan"/>
 </p>
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
----
 
 ## 🚀 About Me
 
-Hello! I'm Umutcan Algan, a 21-year-old Information Systems Engineering student at Piri Reis University (expected graduation: 2027). I love building personal projects, especially in the fields of **cyber security**, **software development**, and **mobile applications**.
+Hello! I'm Umutcan Algan, a 22-year-old Information Systems Engineering student at Piri Reis University (expected graduation: 2027). I love building personal projects, especially in the fields of **cyber security**, **software development**, and **mobile applications**.
 
 - 👀 My interests: **Cyber security**, **Ethical hacking**, **Artificial Intelligence**, **Mobile/Web Development**
 - 🌱 Currently learning: **JavaScript**, **React Native**, **Java**, **Python**
@@ -71,7 +69,7 @@ Here's what I'm planning to learn in the coming months:
 - **Q4 2023:** Cloud security fundamentals (AWS/Azure)
 - **Q1 2024:** Advanced Python for cybersecurity and scripting
 - **Q2 2024:** Mobile app penetration testing techniques
-
+  
 ---
 
 ## 📈 My GitHub Stats
@@ -118,9 +116,4 @@ Here is a quick overview of my GitHub activity and stats:
   <a href="https://www.linkedin.com/in/umutcanalgan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,100:44BBFF&height=100&section=footer" alt="footer"/>
-</p>
 
