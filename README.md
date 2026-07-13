@@ -24,7 +24,6 @@
 - [Projects](#projects)
 - [Learning](#learning)
 - [GitHub Stats](#my-github-stats)
-- [GitHub Trophies](#github-trophies)
 - [Türkçe](#türkçe)
 
 ---
@@ -183,21 +182,11 @@ CRNN-based ASR system (CNN + BiLSTM + CTC) trained on LibriSpeech. Fusing a 4-gr
 ## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ucanalgan&show_icons=true&theme=radical" alt="ucanalgan's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucanalgan&theme=radical" alt="ucanalgan's GitHub streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucanalgan&theme=radical" alt="ucanalgan's GitHub streak" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucanalgan&layout=compact&theme=radical" alt="ucanalgan's Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucanalgan&theme=radical&height=300" alt="ucanalgan's Activity Graph" width="48%"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ucanalgan&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="ucanalgan's trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucanalgan&theme=radical&height=300" alt="ucanalgan's Activity Graph" width="90%"/>
 </p>
 
 ---
