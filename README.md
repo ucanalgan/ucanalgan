@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,50:4444FF,100:44BBFF&height=200&section=header&text=Umutcan%20Algan&fontSize=40&fontAlignY=35&desc=Full-Stack%20Development%20%7C%20Backend%20%26%20API%20Security%20%7C%20Mobile&descAlignY=55&animation=fadeIn" alt="banner"/>
-</p>
+<h1 align="center">Umutcan Algan</h1>
 
-# Hi there! I'm Umutcan Algan (@ucanalgan)
+<p align="center">
+  <b>Full-Stack Development &nbsp;·&nbsp; Backend & API Security &nbsp;·&nbsp; Mobile</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/ucanalgan"><img src="https://img.shields.io/github/followers/ucanalgan?label=Follow&style=social"/></a>
   <img src="https://komarev.com/ghpvc/?username=ucanalgan&label=Profile%20Views&color=0e75b6&style=flat" alt="ucanalgan"/>
+</p>
+
+<p align="center">
+  Hi there! I'm Umutcan (<a href="https://github.com/ucanalgan">@ucanalgan</a>) — a full-stack developer<br/>
+  building scalable backends and secure APIs.
 </p>
 
 ## Table of Contents
@@ -271,5 +276,5 @@ LibriSpeech üzerinde eğitilmiş CRNN tabanlı ASR sistemi (CNN + BiLSTM + CTC)
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,50:4444FF,100:44BBFF&height=100&section=footer" alt="footer"/>
+  <sub>Let's build something. <a href="mailto:umutcanalgan91@gmail.com">Get in touch</a>.</sub>
 </p>
